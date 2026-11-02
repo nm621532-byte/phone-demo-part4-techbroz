@@ -14,7 +14,7 @@ Is repo mein sab kuch phone se samjhaya gaya hai:
 
 ⬇️ Download (zip): https://github.com/nm621532-byte/phone-demo-part4-techbroz/raw/main/release/portfolio-website-v1.0.zip
 
-▶️ YouTube video: link soon
+▶️ YouTube video: https://www.youtube.com/watch?v=k3lKdkTEBDw
 
 Apna portfolio banana hai? Is repo ko **Fork** karo, `index.html` mein apna naam likho, aur Pages on karo — bas!
 
